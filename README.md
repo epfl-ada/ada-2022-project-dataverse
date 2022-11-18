@@ -40,13 +40,9 @@ Q5. Are movies based on books preferred than those that are not? And do movies a
 
   - We will first lower case and remove punctuation from the titles and then merge the dataset through the title name from the list ”data based on books” from the wikidata (7’017) for both of the datasets below. The scores of both dataset will be normalized as the scales are not the same. Therefore, books ratings that are available in both datasets will be averaged. 
 
-  - https://github.com/luminati-io/Amazon-popular-books-dataset/blob/main/Amazon_popular_books_dataset.csv 
-  
-Rating, title, best sellers rank variables will be used for the analysis, which has 2’269 entries.
+  - https://github.com/luminati-io/Amazon-popular-books-dataset/blob/main/Amazon_popular_books_dataset.csv. Rating, title, best sellers rank variables will be used for the analysis, which has 2’269 entries.
 
-  - https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset 
-  
-Rating, book title and country variables are selected from the dataset, which has 1’031’175 entries.
+  - https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset. Rating, book title and country variables are selected from the dataset, which has 1’031’175 entries.
 
   
 - Subtitles
@@ -92,9 +88,13 @@ Q5. Are movies based on books more appreciated than those that are not? We often
  
 ## Organization within the team
 Q1: Alexander
+
 Q2: Aleksandra
+
 Q3: Jane
+
 Q4: Alexander
+
 Q5: Anahita
 
 Datastory: Together
