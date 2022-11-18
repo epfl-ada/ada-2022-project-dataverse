@@ -90,9 +90,9 @@ Q1: Alexander
 
 Q2: Aleksandra
 
-Q3: Jane
+Q3: Alexander
 
-Q4: Alexander
+Q4: Yauheniya
 
 Q5: Anahita
 
@@ -103,6 +103,8 @@ Datastory: Together
 
 All data must be stored on Google Drive in the `ADA` folder
 
-All data that was used can be found at the link:
+All data that was used can be found at the link: 
+
+(The data itself is stored in 3 folders: `WikiData`, `Subtitles`, `MovieSummaries`)
 
 
