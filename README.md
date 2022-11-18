@@ -103,6 +103,7 @@ Datastory: Together
 `Milestone2.ipynb` - main notebook with all pre-processing
 
 All data must be stored on Google Drive in the `ADA` folder
+
 All data that was used can be found at the link:
 
 
