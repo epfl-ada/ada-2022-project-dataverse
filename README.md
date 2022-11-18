@@ -103,7 +103,7 @@ Datastory: Together
 
 All data must be stored on Google Drive in the `ADA` folder
 
-All data that was used can be found at the link: 
+All data that was used can be found at the link: https://drive.google.com/drive/folders/1HnhkCQLkWXgyXJRkIOypIOGDOmjHOUNM?usp=sharing
 
 (The data itself is stored in 3 folders: `WikiData`, `Subtitles`, `MovieSummaries`)
 
