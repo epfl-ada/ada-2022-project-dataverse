@@ -98,7 +98,7 @@ Q4: Anahita
 Datastory: Together
 
 ## Navigating the repo
-`Milestone3.ipynb` - main notebook with all pre-processing
+`Milestone_3.ipynb` - main notebook with all pre-processing
 
 All data must be stored on Google Drive in the `ADA` folder
 
