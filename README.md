@@ -70,7 +70,7 @@ We analyze the overall data for different genres and countries. We apply statist
 
 Q2. We plan to predict the review score by training the MLP on the regression problem. We will use our data in such a way that text variables (for example, summaries) will already be replaced by BERT embeddings. in addition to summary corpus, we would like to know if the fact that a movie is book-based will improve the prediction score.
 
-Q3. We want to track the evolution of the most descriptive and common words in films during time and see how these characteristics vary across different film categories in comparison with book-based movies. The plan is to perform a linguistic analysis on subtitles and plot summaries using TF-IDF and find the most representative words for each. We will cluster films based on their genre and check out how these words vary across different clusters.
+Q3. We want to track the evolution of the most descriptive and common words in films during time and see how these characteristics vary across different film categories in comparison with book-based movies. The plan is to perform a linguistic analysis on subtitles and plot summaries using TF-IDF and find the most representative words for each.
 
 Q4. We often hear “The original book was way better than the movie!”. 
 We are interested to see if the ratings are indeed different. We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
