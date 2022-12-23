@@ -24,9 +24,7 @@ Q1. What is our data and how are the movies connected to books?
 
 Q2. What are the most representative words used in films by different categories and countries?
 
-Q3. Can titles represent film content? Do films with more representative titles have higher review score ?
-
-Q4. Can we predict the movie review score based on our data ? 
+Q3. Can we predict the movie review score based on our data ? 
 
 Q5. Are movies based on books preferred than those that are not? And do movies are less appreciated than their books counterparts?    
 
