@@ -43,8 +43,6 @@ Q5. Are movies based on books preferred than those that are not? And do movies a
 
   - https://github.com/luminati-io/Amazon-popular-books-dataset/blob/main/Amazon_popular_books_dataset.csv. Rating, title, best sellers rank variables will be used for the analysis, which has 2’269 entries.
 
-  - https://www.kaggle.com/datasets/ruchi798/bookcrossing-dataset. Rating, book title and country variables are selected from the dataset, which has 1’031’175 entries.
-
   
 - Subtitles
   - This dataset is processed in the `Subtitles` section
@@ -73,7 +71,7 @@ Q3. We plan to predict the review score by training the MLP on the regression pr
 Q4. Are movies based on books more appreciated than those that are not? We often hear “The original book was way better than the movie!”. 
 We are interested to see if the ratings are indeed different. 
 We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
-We first merged the book datasets, rescaled the scores and performed a paired t test.
+We first merged the book datasets, rescaled the scores and performed a paired t test. 
 
 
 
