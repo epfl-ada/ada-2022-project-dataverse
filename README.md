@@ -93,7 +93,6 @@ Q1: Alexander
 
 Q2: Aleksandra
 
-Q3: Alexander
 
 Q4: Yauheniya
 
