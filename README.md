@@ -1,5 +1,9 @@
 # The seventh art under investigation
 
+## The Link to our DataStory
+
+https://delta3361.wixsite.com/dataverseteam
+
 ## Table of Contents
 - [Abstract](#abstract)
 - [Research Questions](#research-questions)
@@ -16,7 +20,7 @@ The global film industry was worth $136 billion in 2018. The top three film-prod
 
 ## Research Questions
 
-Q1. What are the main trends on genres, screenplay and duration in the cinema industry and how do these trends evolve over time?
+Q1. What is our data and how are the movies connected to books?
 
 Q2. What are the most representative words used in films by different categories and countries?
 
@@ -61,15 +65,14 @@ Q5. Are movies based on books preferred than those that are not? And do movies a
 
 ## Methods
 
-Q1. To look for trends, we can analyze the amount of films produced in a period along with box revenue and review scores (but the two latter ones have limitations). We will find the most popular genres across time. We will apply statistical analysis to answer questions like “Do films made in the US get on average higher review scores than in the other world?” and find dependencies that relate to review score. 
+Q1. To look for trends, we can analyze the amount of films produced in a period along with box revenue and review scores (but the two latter ones have limitations). We will find countries that are leading the industry. 
+We analyze the overall data for different genres and countries. We apply statistical analysis to answer questions like “Do films based on books have higher review score?” and find dependencies that relate to review score. 
 
 Q2. We want to track the evolution of the most descriptive and common words in films during time and see how these characteristics vary across different film categories. The plan is to perform a linguistic analysis on subtitles and plot summaries using TF-IDF and find the most representative words. We will cluster films based on their genre, country, time of creation, runtime and other features and check out how these words vary across different clusters.
 
-Q3. The abstract goal here is to find a measure of similarity between the plot and the description. We plan to extract text embeddings from the content (subtitles, plots, titles) using pretrained BERT model and compare the similarity of vectors representing title and the description. Then we will perform a statistical analysis to find whether films with larger similarity between the title and the description get higher review scores.
+Q3. We plan to predict the review score by training the MLP on the regression problem. We will use our data in such a way that text variables (for example, summaries) will already be replaced by BERT embeddings.
 
-Q4. We plan to predict the review score by training the MLP on the regression problem. We will use our data in such a way that text variables (for example, summaries) will already be replaced by BERT embeddings.
-
-Q5. Are movies based on books more appreciated than those that are not? We often hear “The original book was way better than the movie!”. We are interested to see if the ratings are indeed different. We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
+Q4. Are movies based on books more appreciated than those that are not? We often hear “The original book was way better than the movie!”. We are interested to see if the ratings are indeed different. We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
 
 
 
@@ -99,7 +102,7 @@ Q5: Anahita
 Datastory: Together
 
 ## Navigating the repo
-`Milestone2.ipynb` - main notebook with all pre-processing
+`Milestone3.ipynb` - main notebook with all pre-processing
 
 All data must be stored on Google Drive in the `ADA` folder
 
