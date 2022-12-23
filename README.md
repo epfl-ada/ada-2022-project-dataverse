@@ -70,7 +70,10 @@ Q2. We want to track the evolution of the most descriptive and common words in f
 
 Q3. We plan to predict the review score by training the MLP on the regression problem. We will use our data in such a way that text variables (for example, summaries) will already be replaced by BERT embeddings.
 
-Q4. Are movies based on books more appreciated than those that are not? We often hear “The original book was way better than the movie!”. We are interested to see if the ratings are indeed different. We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
+Q4. Are movies based on books more appreciated than those that are not? We often hear “The original book was way better than the movie!”. 
+We are interested to see if the ratings are indeed different. 
+We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
+We first merged the book datasets, rescaled the scores and performed a paired t test.
 
 
 
