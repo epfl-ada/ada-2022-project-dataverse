@@ -42,6 +42,10 @@ Q4. Do movies are less appreciated than their books counterparts?
   - We will first lower case and remove punctuation from the titles and then merge the dataset through the title name from the list ”data based on books” from the wikidata (7’017) for both of the datasets below. The scores of both dataset will be normalized as the scales are not the same. Therefore, books ratings that are available in both datasets will be averaged. 
 
   - https://github.com/luminati-io/Amazon-popular-books-dataset/blob/main/Amazon_popular_books_dataset.csv. Rating, title, best sellers rank variables will be used for the analysis, which has 2’269 entries.
+  - https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019  best selling from 2009 to 2019
+  - Apify (goodreads)
+
+
 
   
 - Subtitles
