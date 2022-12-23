@@ -15,7 +15,7 @@ https://delta3361.wixsite.com/dataverseteam
 
 
 ## Abstract
-The global film industry was worth $136 billion in 2018. The top three film-producing countries are the United States, India and China. However, despite its supposed diversity, there are common patterns and characteristics in movies which we aim to investigate. Our project is mainly to explore the influence of books in the cinema industry. For this aim, after exploring general overview, we will investigate if the review scores could be predicted by the summaries and how impactful the fact that a movie is based on a book is on the scores. Next, we will explore the most frequent words in movies and book-based movies by genre. Finally, we will verify if books are indeed more appreciated than their movie counterparts.    
+The global film industry was worth $136 billion in 2018. The top three film-producing countries are the United States, India and China. However, despite its supposed diversity, there are common patterns and characteristics in movies which we aim to investigate. Our project is mainly to explore the influence of books in the cinema industry. For this aim, after exploring general overview, we will investigate if the review scores could be predicted by the summaries and how impactful the fact that a movie is based on a book is on the scores. Next, we will explore the most frequent words in movies and book-based movies by genre. Finally, we will verify if books are indeed more appreciated than their movie counterparts, confirming the popular belief.    
 
 
 ## Research Questions
