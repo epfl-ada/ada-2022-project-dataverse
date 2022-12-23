@@ -22,11 +22,11 @@ The global film industry was worth $136 billion in 2018. The top three film-prod
 
 Q1. What is our data and how are the movies connected to books?
 
-Q2. What are the most representative words used in films by different categories and countries?
+Q2. Can we predict the movie review score based on our data ?
 
-Q3. Can we predict the movie review score based on our data ? 
+Q3. What are the most representative words in movies and book-based movies ? 
 
-Q5. Are movies based on books preferred than those that are not? And do movies are less appreciated than their books counterparts?    
+Q4. Do movies are less appreciated than their books counterparts?    
 
 ## Additional datasets
 - Wikidata
@@ -68,9 +68,8 @@ Q2. We want to track the evolution of the most descriptive and common words in f
 
 Q3. We plan to predict the review score by training the MLP on the regression problem. We will use our data in such a way that text variables (for example, summaries) will already be replaced by BERT embeddings.
 
-Q4. Are movies based on books more appreciated than those that are not? We often hear “The original book was way better than the movie!”. 
-We are interested to see if the ratings are indeed different. 
-We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
+Q4. We often hear “The original book was way better than the movie!”. 
+We are interested to see if the ratings are indeed different. We downloaded various book ratings datasets and we plan to check if the ratings are different in favor of the books in comparison of their movie counterpart.
 We first merged the book datasets, rescaled the scores and performed a paired t test. 
 
 
@@ -90,12 +89,11 @@ We first merged the book datasets, rescaled the scores and performed a paired t 
 ## Organization within the team
 Q1: Alexander
 
-Q2: Aleksandra
+Q2: Yauheniya
 
+Q3: Aleksandra
 
-Q4: Yauheniya
-
-Q5: Anahita
+Q4: Anahita
 
 Datastory: Together
 
