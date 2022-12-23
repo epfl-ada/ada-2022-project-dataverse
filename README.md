@@ -68,7 +68,7 @@ Q4. Do movies are less appreciated than their books counterparts?
 Q1. To look for trends, we can analyze the amount of films produced in a period along with box revenue and review scores (but the two latter ones have limitations). We will find countries that are leading the industry. 
 We analyze the overall data for different genres and countries. We apply statistical analysis to answer questions like “Do films based on books have higher review score?” and find dependencies that relate to review score. 
 
-Q2. We plan to predict the review score by training the MLP on the regression problem. We will use our data in such a way that text variables (for example, summaries) will already be replaced by BERT embeddings. in addition to summary corpus, we would like to know if the fact that a movie is book-based will improve the prediction score.
+Q2. We plan to predict the review score by training the MLP on the regression problem. We will use our data in such a way that text variables (for example, summaries) will already be replaced by BERT embeddings. in addition to summary corpus, we would like to know if the fact that a movie is book-based will improve the score.
 
 Q3. We want to track the evolution of the most descriptive and common words in films during time and see how these characteristics vary across different film categories in comparison with book-based movies. The plan is to perform a linguistic analysis on subtitles and plot summaries using TF-IDF and find the most representative words for each.
 
